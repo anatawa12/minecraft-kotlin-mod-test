@@ -1,8 +1,8 @@
 [
     {
-        "modid": "minecraft-forge-kotlin-template",
-        "name": "Minecraft Forge Kotlin Template",
-        "description": "injection point type '%s'",
+        "modid": "minecraft-kotlin-mod-test",
+        "name": "Minecraft Kotlin mod test",
+        "description": "oofyeet",
         "version": "${version}",
         "mcversion": "${mcversion}",
         "url": "",

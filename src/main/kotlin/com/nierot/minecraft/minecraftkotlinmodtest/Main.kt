@@ -1,4 +1,4 @@
-package io.github.proudust.minecraftforgekotlintemplate
+package com.nierot.minecraft.minecraftkotlinmodtest
 
 import net.minecraft.block.Block
 import net.minecraft.item.Item
@@ -16,9 +16,9 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent
     modLanguageAdapter = "net.shadowfacts.forgelin.KotlinAdapter"
 )
 object MinecraftForgeKotlinTemplate {
-    const val MOD_ID = "minecraft-forge-kotlin-template"
-    const val MOD_NAME = "Minecraft Forge Kotlin Template"
-    const val VERSION = "2019.1-1.2.23"
+    const val MOD_ID = "minecraft-kotlin-mod-test"
+    const val MOD_NAME = "Minecraft Kotlin Mod Test"
+    const val VERSION = "1.0-SNAPSHOT"
 
     /**
      * This is the first initialization event. Register tile entities here.
